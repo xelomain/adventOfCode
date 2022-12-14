@@ -19,10 +19,16 @@ def dayFor():
         firstSection = [section for section in range(int(firstElf[0]), int(firstElf[1]) + 1)]
         secSection = [section for section in range(int(secElf[0]), int(secElf[1]) + 1)]
 
-        checkFirstToSec = all(section in firstSection for section in secSection)
-        checkSecToFrist = all(section in secSection for section in firstSection)
+        #Teil1
+        #checkFirstToSec = all(section in firstSection for section in secSection)
+        #checkSecToFrist = all(section in secSection for section in firstSection)
+        #if checkFirstToSec or checkSecToFrist:
+        #    overlapPairs += 1
 
-        if checkFirstToSec or checkSecToFrist:
+        #Teil2
+        check = any(section in firstSection for section in secSection)
+
+        if check:
             overlapPairs += 1
         
     return overlapPairs
