@@ -32,8 +32,8 @@ def daySeven():
             for i in range(path.count("/")):
                 dirs[dir] += size
                 dir = dir[:dir.rfind("/")]
-
-    total = 0
+    #Teil1
+    #total = 0
     limit = 30000000 - (70000000 - dirs["/home"])
     validDirs = []
 
@@ -46,9 +46,9 @@ def daySeven():
         #Teil2
         if limit <= dirs[dir]:
             validDirs.append(dirs[dir])
-            total = min(validDirs)
+            print(validDirs)
     
-    return total
+    return min(validDirs)
 
 ergebnis = daySeven()
 print(ergebnis)
