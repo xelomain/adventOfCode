@@ -20,12 +20,12 @@ def daytwentyfive():
         value = []
 
         while number > 0:
-            remainder = number % 5
-            if remainder > 2:
-                number += remainder
-                value.append(decimals[remainder - 5])
+            tempNum = number % 5
+            if tempNum > 2:
+                number += tempNum
+                value.append(decimals[tempNum - 5])
             else: 
-                value.append(str(remainder))
+                value.append(str(tempNum))
 
             number //= 5
 
