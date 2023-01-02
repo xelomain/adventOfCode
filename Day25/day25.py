@@ -12,11 +12,11 @@ def daytwentyfive():
 
     numbers = []
 
-    def to_decimal(number):
+    def toDecimal(number):
         result = sum([(5 ** ii) * fuels[c] for ii, c in enumerate(reversed(number))])
         return result
 
-    def to_fuel(number):
+    def toFuel(number):
         value = []
 
         while number > 0:
@@ -32,9 +32,9 @@ def daytwentyfive():
         return ''.join(reversed(value))
 
     for line in input.splitlines():
-        numbers.append(to_decimal(line))
+        numbers.append(toDecimal(line))
 
-    snafu = to_fuel(sum(numbers))
+    snafu = toFuel(sum(numbers))
     return snafu
 
 ergebnis = daytwentyfive()

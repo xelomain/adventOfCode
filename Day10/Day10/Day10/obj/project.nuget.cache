@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cI/xGSSY5bIRQvrprw4KHaEwEYk1ANyoH1XWVzojbwJo5cdDkC3Pt9GQLHMpe3w8fSCGqxXIT5XayzjQCQ3RTg==",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\adventofcode\\adventOfCode\\Day10\\Day10\\Day10\\Day10.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.actiware.de:8080'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

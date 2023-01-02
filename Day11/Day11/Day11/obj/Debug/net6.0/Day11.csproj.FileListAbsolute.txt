@@ -1,0 +1,15 @@
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\bin\Debug\net6.0\Day11.exe
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\bin\Debug\net6.0\Day11.deps.json
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\bin\Debug\net6.0\Day11.runtimeconfig.json
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\bin\Debug\net6.0\Day11.dll
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\bin\Debug\net6.0\Day11.pdb
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\obj\Debug\net6.0\Day11.csproj.AssemblyReference.cache
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\obj\Debug\net6.0\Day11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\obj\Debug\net6.0\Day11.AssemblyInfoInputs.cache
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\obj\Debug\net6.0\Day11.AssemblyInfo.cs
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\obj\Debug\net6.0\Day11.csproj.CoreCompileInputs.cache
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\obj\Debug\net6.0\Day11.dll
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\obj\Debug\net6.0\refint\Day11.dll
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\obj\Debug\net6.0\Day11.pdb
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\obj\Debug\net6.0\Day11.genruntimeconfig.cache
+C:\Temp\adventofcode\adventOfCode\Day11\Day11\Day11\obj\Debug\net6.0\ref\Day11.dll
